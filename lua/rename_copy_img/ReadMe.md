@@ -27,6 +27,7 @@ so that I modify parameters in main.lua in line 153:
 ********************************************************************************************
 ********************************************************************************************
 --[src] : 		source folder, contains sub-folder(raw data) 
+
 --[dst] : 		destination folder  
 --[color_or_gray] : 	'0' select all images, '1' for gray image,    '3' only for color image  
 --[opt_folder]    : 	'1' for sub-classes folder, '0' for single folder  
